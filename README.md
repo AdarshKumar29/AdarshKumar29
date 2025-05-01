@@ -37,5 +37,5 @@
 <p align="left">
   <a href="mailto:adarshkumar.922k@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/adarshkr09"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://wordpress.com/home/data302.wordpress.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox-browser"></a>
+  <a href=" https://wordpress.com/reader/users/adarshkumar922k"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox-browser"></a>
 </p>
