@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | Data Storyteller | Lifelong Learner</h3>
+<h3 align="center">Data Analyst | Data Storyteller | Lifelong Learner</h3>
 
 <p align="center">
  
